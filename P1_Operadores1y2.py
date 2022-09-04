@@ -3,6 +3,7 @@
 #20110164
 #6E1
 
+##########OPERADORES MATEMATICOS##########
 #Esta práctica abarcará los capitulos 1-8 del curso de python: https://www.programacionfacil.org/cursos/python_basico/capitulo_1_instalacion_ide_python.html
 
 
